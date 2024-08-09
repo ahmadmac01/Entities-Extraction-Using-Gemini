@@ -1,5 +1,7 @@
 gradio
-google-generativeai
 langchain_community
 langchain
 langchain-google-genai
+
+
+
