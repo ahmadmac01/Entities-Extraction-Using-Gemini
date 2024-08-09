@@ -14,21 +14,21 @@ The Entity Extraction Tool is designed to extract specific entities like names, 
   
 ## Use Cases
 ### 1. Email Entity Extraction
-**Use Case:** Extracting key information from emails such as names, dates, locations, and more.
+Extracting key information from emails such as names, dates, locations, and more.
 
 **Example:** Input an email body, and the tool will extract and display entities like sender names, dates mentioned, and any locations referenced.
 ### 2. Document Processing
-**Use Case:** Parsing through large documents to extract essential information such as legal entities, dates, and locations.
+Parsing through large documents to extract essential information such as legal entities, dates, and locations.
 
 **Example:** Input a section of a legal document to extract critical entities like company names, important dates, and referenced locations.
 
 ### 3. Customer Support Analysis
-**Use Case:** Analyzing customer support emails or chat logs to identify important entities such as customer names, issue categories, and dates.
+Analyzing customer support emails or chat logs to identify important entities such as customer names, issue categories, and dates.
 
 **Example:** Input a customer support email and extract details about the customer's name, issue description, and the date of the complaint.
 
 ### 4. Social Media Monitoring
-**Use Case:** Extracting mentions of people, places, and events from social media posts.
+Extracting mentions of people, places, and events from social media posts.
 
 **Example:** Input a social media post or tweet and extract entities like mentioned users, hashtags, locations, and event names.
 
